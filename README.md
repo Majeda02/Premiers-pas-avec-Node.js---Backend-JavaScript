@@ -1,5 +1,12 @@
 # "# Premiers-pas-avec-Node.js---Backend-JavaScript" 
 
+##  Technologies utilisées
+
+-   Node.js
+-   Express.js
+-   Morgan
+-   Dotenv
+
 ## Installation de Node.js
 <img width="858" height="459" alt="Etape1" src="https://github.com/user-attachments/assets/f49c7f20-0c31-4a6c-9e69-491781bfc13e" />
 
@@ -23,19 +30,6 @@ https://github.com/user-attachments/assets/3fb642cd-c2a2-4a3a-a206-e94ba4903a85
 
 
 
-##  Fonctionnalités
-
--   Démarrage d'un serveur web
--   Gestion de routes API
--   Lecture et écriture dans des fichiers
--   Middleware avec Express
--   Logs avec Morgan
--   Configuration avec dotenv
 
 
-##  Technologies utilisées
 
--   Node.js
--   Express.js
--   Morgan
--   Dotenv
